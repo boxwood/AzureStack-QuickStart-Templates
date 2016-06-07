@@ -2,7 +2,7 @@
 
 This template will create a Visual Studio 2013 test controller/test agent farm using the PowerShell DSC Extension it creates the following resources:
 
-+	One external lobgfhfhggfhggfhfgad balancer
++	One external load balancer
 +	At least two storage accounts (more will be created depending on the selected number of test agents to be deployed)
 +	One VM configured as test console that has Visual Studio 2013, SQL Server 2014 (load test database) and test controller
 
